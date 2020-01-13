@@ -36,6 +36,9 @@ figcaption {
 
 }
 
+p {
+  text-align: center;
+}
 div {
   float: left;
   text-align: center;
